@@ -23,4 +23,5 @@ explored the computational bounds of sound synthesis on an embedded system with 
 resources.
 
 __For full report, see `cpsc490report.pdf`__
+
 __For source code, see `cpsc490src` directory__
